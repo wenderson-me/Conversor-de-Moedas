@@ -46,4 +46,4 @@
         android:layout_height="wrap_content"
         android:text="@string/calcular" />
 
-</LinearLayout>idget.ConstraintLayout>
+</LinearLayout>
